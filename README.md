@@ -1,0 +1,2 @@
+# projekat
+Operativni sistemi
